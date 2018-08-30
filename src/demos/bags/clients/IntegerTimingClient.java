@@ -32,7 +32,7 @@ public class IntegerTimingClient {
             loopthroughAll(b);
             long endingMillis = System.currentTimeMillis();
             System.out.println("For a " + b + ", looping through all elements took "
-                    + (endingMillis - startingMillis) + " ms.");
+                    + (endingMillis - startingMillis) + " ms after shaking.");
             System.out.println("Finished Integer experiments for " + b + ".");
             System.out.println("----------------------------------------------------------------");
         }
