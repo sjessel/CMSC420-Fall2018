@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ### Description
 
 Code base for UMD's CMSC420, Data Structures, Section 0201, Fall 2018.
@@ -23,3 +24,6 @@ Contact Jason at [jasonfil@cs.umd.edu](mailto:jasonfil@cs.umd.edu) for questions
 ### License
 
 Refer to the text file `LICENSE` for details.
+=======
+# CMSC420-Fall2018
+>>>>>>> 4f04597fb70a75bc44cc32cd5a8eec062a5199fe
